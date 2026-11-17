@@ -1,6 +1,6 @@
 # windlesscastle-website
 
-Static support and privacy pages for the **Windless Castle** iPhone game, served by
+Static support and privacy pages for the **Windless Castle** iPhone and Apple TV game, served by
 GitHub Pages at <https://windlesscastle.murilomarinho.info/>.
 
 - `index.html`: support page (the App Store "Support URL")
